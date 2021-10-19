@@ -1,4 +1,4 @@
-# Coding-challenge
+# Weather Restful API
 
 ### Steps to run application.
 
