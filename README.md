@@ -69,5 +69,5 @@ This service calls openweathermap service, save/update the information from open
 #### WeatherInfoServiceImpl
 This service talks to openweathermap service and retrieves weather data.
 
-####WeatherInfoRepository
+#### WeatherInfoRepository
 This is Spring data repository that performs database operations.
